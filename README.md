@@ -38,18 +38,6 @@ This private repository hosts projects managed by the IT Department.
 
 ---
 
-## 📜 Getting Started
-
-### For Team Members:
-1. Ensure you have access to this private repository.
-2. Clone the repository:
-   ```bash
-   git clone [repository_url]
-   ```
-3. Review the documentation provided in each project folder for guidance.
-
----
-
 ## 🧑‍💻 IT Team
 
 ### Contact Information:
